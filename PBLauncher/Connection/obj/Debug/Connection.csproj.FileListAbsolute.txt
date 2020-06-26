@@ -1,0 +1,13 @@
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Connection\bin\Debug\Connection.exe.config
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Connection\bin\Debug\Connection.exe
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Connection\bin\Debug\Connection.pdb
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Connection\obj\Debug\Connection.csproj.CoreCompileInputs.cache
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Connection\obj\Debug\Connection.exe
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Connection\obj\Debug\Connection.pdb
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Connection\bin\Debug\Connection.exe.config
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Connection\bin\Debug\Connection.exe
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Connection\obj\Debug\Connection.csprojAssemblyReference.cache
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Connection\obj\Debug\Connection.csproj.CoreCompileInputs.cache
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Connection\obj\Debug\Connection.exe
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Connection\obj\Debug\Connection.pdb
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Connection\bin\Debug\Connection.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\Launcher\liblauncher\bin\Release\i3BaseUp.dll
+C:\Users\Administrador\Desktop\Launcher\liblauncher\bin\Release\i3BaseUp.pdb
+C:\Users\Administrador\Desktop\Launcher\liblauncher\obj\Release\Liblauncher.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Launcher\liblauncher\obj\Release\Liblauncher.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Launcher\liblauncher\obj\Release\i3BaseUp.dll
+C:\Users\Administrador\Desktop\Launcher\liblauncher\obj\Release\i3BaseUp.pdb

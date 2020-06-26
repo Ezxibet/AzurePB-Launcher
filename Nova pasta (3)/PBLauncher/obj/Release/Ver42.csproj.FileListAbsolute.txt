@@ -1,0 +1,14 @@
+D:\xampp_\โปรแกรม\PBLauncher\bin\Release\PBLauncher.exe.config
+D:\xampp_\โปรแกรม\PBLauncher\bin\Release\PBLauncher.exe
+D:\xampp_\โปรแกรม\PBLauncher\bin\Release\PBLauncher.pdb
+D:\xampp_\โปรแกรม\PBLauncher\bin\Release\KuyRaiHook.dll
+D:\xampp_\โปรแกรม\PBLauncher\obj\Release\PointBlank.Launcher.Antihack.resources
+D:\xampp_\โปรแกรม\PBLauncher\obj\Release\PointBlank.Launcher.Connection.resources
+D:\xampp_\โปรแกรม\PBLauncher\obj\Release\PointBlank.Launcher.Launcher.resources
+D:\xampp_\โปรแกรม\PBLauncher\obj\Release\PointBlank.Launcher.Properties.Resources.resources
+D:\xampp_\โปรแกรม\PBLauncher\obj\Release\Ver42.csproj.GenerateResource.cache
+D:\xampp_\โปรแกรม\PBLauncher\obj\Release\Ver42.csproj.CoreCompileInputs.cache
+D:\xampp_\โปรแกรม\PBLauncher\obj\Release\Ver42.csproj.CopyComplete
+D:\xampp_\โปรแกรม\PBLauncher\obj\Release\PBLauncher.exe
+D:\xampp_\โปรแกรม\PBLauncher\obj\Release\PBLauncher.pdb
+D:\xampp_\โปรแกรม\PBLauncher\bin\Release\Newtonsoft.Json.dll

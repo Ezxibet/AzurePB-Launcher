@@ -1,0 +1,18 @@
+C:\Users\Adrya\Desktop\Launcher\liblauncher\bin\Debug\i3BaseUp.dll
+C:\Users\Adrya\Desktop\Launcher\liblauncher\bin\Debug\i3BaseUp.pdb
+C:\Users\Adrya\Desktop\Launcher\liblauncher\obj\Debug\liblauncher.csproj.CoreCompileInputs.cache
+C:\Users\Adrya\Desktop\Launcher\liblauncher\obj\Debug\i3BaseUp.dll
+C:\Users\Adrya\Desktop\Launcher\liblauncher\obj\Debug\i3BaseUp.pdb
+C:\Users\Adrya\Desktop\Launcher\liblauncher\obj\Debug\liblauncher.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Launcher\liblauncher\bin\Debug\i3BaseUp.dll
+C:\Users\Administrador\Desktop\Launcher\liblauncher\bin\Debug\i3BaseUp.pdb
+C:\Users\Administrador\Desktop\Launcher\liblauncher\obj\Debug\Liblauncher.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Launcher\liblauncher\obj\Debug\Liblauncher.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Launcher\liblauncher\obj\Debug\i3BaseUp.dll
+C:\Users\Administrador\Desktop\Launcher\liblauncher\obj\Debug\i3BaseUp.pdb
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\liblauncher\bin\Debug\i3BaseUp.dll
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\liblauncher\bin\Debug\i3BaseUp.pdb
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\liblauncher\obj\Debug\Liblauncher.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\liblauncher\obj\Debug\Liblauncher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\liblauncher\obj\Debug\i3BaseUp.dll
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\liblauncher\obj\Debug\i3BaseUp.pdb

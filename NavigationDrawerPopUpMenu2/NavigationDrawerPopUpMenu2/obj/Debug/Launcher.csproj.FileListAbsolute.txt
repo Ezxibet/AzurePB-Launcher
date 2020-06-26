@@ -1,0 +1,60 @@
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\bin\Debug\Ionic.Zip.dll
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\Beta3.g.cs
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\UserControlCreate.g.cs
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.g.cs
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\Beta3.baml
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\UserControlCreate.baml
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.baml
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\obj\Debug\Launcher.csprojAssemblyReference.cache
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\bin\Debug\SecureGameGuard.dll
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\bin\Debug\SecureGameGuard.pdb
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawer-master - Copia\NavigationDrawerPopUpMenu2\bin\Debug\es-MX\SecureGameGuard.resources.dll
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\Ionic.Zip.dll
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\Beta3.g.cs
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\UserControlCreate.g.cs
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.g.cs
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\Beta3.baml
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\UserControlCreate.baml
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.baml
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\Evrst\Downloads\Evr Launcher\REAL LAUNCHER - REGPHP\Launcher - WPF\NavigationDrawerPopUpMenu2\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb

@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6AA6878B-48DA-44FE-B764-7259363BFE58}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Launcher</RootNamespace>
+    <AssemblyName>PBLauncher</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>
+    </DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>1</WarningLevel>
+    <LangVersion>8.0</LangVersion>
+    <Prefer32Bit>false</Prefer32Bit>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Utils\PointBlank 18.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ionic.Zip, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ionic.Zip.1.9.1.8\lib\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Config.cs" />
+    <Compile Include="Form\Connection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Connection.Designer.cs">
+      <DependentUpon>Connection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\PBLauncher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\PBLauncher.Designer.cs">
+      <DependentUpon>PBLauncher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Player.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Patch\Settings.cs" />
+    <Compile Include="Patch\StartUpdate.cs" />
+    <Compile Include="Utils.cs" />
+    <Compile Include="Patch\Utils.cs" />
+    <Compile Include="Form\Warning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Warning.Designer.cs">
+      <DependentUpon>Warning.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form\Connection.resx">
+      <DependentUpon>Connection.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\PBLauncher.resx">
+      <DependentUpon>PBLauncher.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Form\Warning.resx">
+      <DependentUpon>Warning.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Utils\packages.config" />
+    <None Include="Patch\packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Iniciar Normal.bmp" />
+    <None Include="Resources\Iniciar Over.bmp" />
+    <None Include="Resources\Atualizar Normal.bmp" />
+    <None Include="Resources\Atualizar Over.bmp" />
+    <None Include="Resources\Fechar Over.bmp" />
+    <None Include="Resources\Cancel Over.bmp" />
+    <None Include="Resources\Cancel Normal.bmp" />
+    <None Include="Resources\Fechar Normal.bmp" />
+    <None Include="Resources\Kyozima.ico" />
+    <None Include="Resources\Kyozima1.bmp" />
+    <None Include="Resources\Login Normal.bmp" />
+    <None Include="Resources\Login Over.bmp" />
+    <None Include="Resources\minimize.bmp" />
+    <None Include="Resources\Register Normal.bmp" />
+    <None Include="Resources\Register Over.bmp" />
+    <None Include="Resources\Register Disabled.bmp" />
+    <None Include="Resources\TotalBar.bmp" />
+    <None Include="Resources\ArchiveBar.bmp" />
+    <None Include="Resources\Back Normal.bmp" />
+    <None Include="Resources\Back Over.bmp" />
+    <None Include="Resources\BG Kyo.bmp" />
+    <None Include="Resources\BG Connection.bmp" />
+    <None Include="Resources\BG Register.bmp" />
+    <None Include="Resources\BG Kyo 1.bmp" />
+    <None Include="Resources\Iniciar Disabled.bmp" />
+    <None Include="Resources\Atualizar Disabled.png" />
+    <None Include="Resources\Atualizar Normal.png" />
+    <None Include="Resources\Atualizar Over.png" />
+    <None Include="Resources\Iniciar Disabled.png" />
+    <None Include="Resources\Iniciar Normal.png" />
+    <None Include="Resources\Iniciar Over.png" />
+    <None Include="Resources\Login Disabled.bmp" />
+    <Content Include="Utils\PointBlank 18.ico" />
+    <None Include="Resources\Start_Click.bmp" />
+    <None Include="Resources\Splash.bmp" />
+    <None Include="Resources\PBLauncher_154.ico" />
+    <None Include="Resources\Pause Click.bmp" />
+    <None Include="Resources\OK Over.bmp" />
+    <None Include="Resources\OK Normal.bmp" />
+    <None Include="Resources\OK Click.bmp" />
+    <None Include="Resources\Hide_Click.bmp" />
+    <None Include="Resources\Closed_Click.bmp" />
+    <None Include="Resources\Check_Over.bmp" />
+    <None Include="Resources\Check_Normal.bmp" />
+    <None Include="Resources\Check_Disable.bmp" />
+    <None Include="Resources\Check Click.bmp" />
+    <None Include="Resources\Cancel Click.bmp" />
+    <None Include="Resources\Update_Disable.bmp" />
+    <None Include="Resources\Update_Click.bmp" />
+    <None Include="Resources\Pause Over.bmp" />
+    <None Include="Resources\Pause Normal.bmp" />
+    <None Include="Resources\Start_Over.bmp" />
+    <None Include="Resources\Closed_Over.bmp" />
+    <None Include="Resources\Closed_Normal.bmp" />
+    <None Include="Resources\BG_PB USA.bmp" />
+    <None Include="Resources\BG_BRASIL.bmp" />
+    <None Include="Resources\Update_Over.bmp" />
+    <None Include="Resources\Update_Normal.bmp" />
+    <None Include="Resources\Start_Normal.bmp" />
+    <None Include="Resources\Start_Disable.png" />
+    <None Include="Resources\Hide_Over.bmp" />
+    <None Include="Resources\Hide_Normal.bmp" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

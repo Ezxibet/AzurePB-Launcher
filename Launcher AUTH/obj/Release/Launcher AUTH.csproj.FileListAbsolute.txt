@@ -1,0 +1,7 @@
+C:\Users\Administrador\Desktop\Launcher\Launcher AUTH\bin\Release\Launcher AUTH.exe.config
+C:\Users\Administrador\Desktop\Launcher\Launcher AUTH\bin\Release\Launcher AUTH.exe
+C:\Users\Administrador\Desktop\Launcher\Launcher AUTH\bin\Release\Launcher AUTH.pdb
+C:\Users\Administrador\Desktop\Launcher\Launcher AUTH\obj\Release\Launcher AUTH.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Launcher\Launcher AUTH\obj\Release\Launcher AUTH.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Launcher\Launcher AUTH\obj\Release\Launcher AUTH.exe
+C:\Users\Administrador\Desktop\Launcher\Launcher AUTH\obj\Release\Launcher AUTH.pdb

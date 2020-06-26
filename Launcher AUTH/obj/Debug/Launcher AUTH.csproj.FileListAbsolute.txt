@@ -1,0 +1,24 @@
+C:\Users\Adrya\Desktop\Launcher\Launcher AUTH\bin\Debug\Launcher AUTH.exe.config
+C:\Users\Adrya\Desktop\Launcher\Launcher AUTH\bin\Debug\Launcher AUTH.exe
+C:\Users\Adrya\Desktop\Launcher\Launcher AUTH\bin\Debug\Launcher AUTH.pdb
+C:\Users\Adrya\Desktop\Launcher\Launcher AUTH\obj\Debug\Launcher AUTH.csprojAssemblyReference.cache
+C:\Users\Adrya\Desktop\Launcher\Launcher AUTH\obj\Debug\Launcher AUTH.csproj.CoreCompileInputs.cache
+C:\Users\Adrya\Desktop\Launcher\Launcher AUTH\obj\Debug\Launcher AUTH.csproj.CopyComplete
+C:\Users\Adrya\Desktop\Launcher\Launcher AUTH\obj\Debug\Launcher AUTH.exe
+C:\Users\Adrya\Desktop\Launcher\Launcher AUTH\obj\Debug\Launcher AUTH.pdb
+C:\Users\Administrador\Desktop\Launcher\Launcher AUTH\bin\Debug\Launcher AUTH.exe.config
+C:\Users\Administrador\Desktop\Launcher\Launcher AUTH\bin\Debug\Launcher AUTH.exe
+C:\Users\Administrador\Desktop\Launcher\Launcher AUTH\bin\Debug\Launcher AUTH.pdb
+C:\Users\Administrador\Desktop\Launcher\Launcher AUTH\obj\Debug\Launcher AUTH.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Launcher\Launcher AUTH\obj\Debug\Launcher AUTH.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Launcher\Launcher AUTH\obj\Debug\Launcher AUTH.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Launcher\Launcher AUTH\obj\Debug\Launcher AUTH.exe
+C:\Users\Administrador\Desktop\Launcher\Launcher AUTH\obj\Debug\Launcher AUTH.pdb
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher AUTH\bin\Debug\Launcher AUTH.exe.config
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher AUTH\bin\Debug\Launcher AUTH.exe
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher AUTH\bin\Debug\Launcher AUTH.pdb
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher AUTH\obj\Debug\Launcher AUTH.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher AUTH\obj\Debug\Launcher AUTH.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher AUTH\obj\Debug\Launcher AUTH.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher AUTH\obj\Debug\Launcher AUTH.exe
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher AUTH\obj\Debug\Launcher AUTH.pdb

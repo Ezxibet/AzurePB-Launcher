@@ -1,0 +1,101 @@
+C:\Users\Adrya\Desktop\Launcher\Launcher\bin\Debug\PBLauncher.exe.config
+C:\Users\Adrya\Desktop\Launcher\Launcher\bin\Debug\PBLauncher.exe
+C:\Users\Adrya\Desktop\Launcher\Launcher\bin\Debug\PBLauncher.pdb
+C:\Users\Adrya\Desktop\Launcher\Launcher\bin\Release\PBLauncher.exe.config
+C:\Users\Adrya\Desktop\Launcher\Launcher\bin\Release\PBLauncher.exe
+C:\Users\Adrya\Desktop\Launcher\Launcher\bin\Release\PBLauncher.pdb
+C:\Users\Adrya\Desktop\Launcher\Launcher\bin\Release\DotNetZip.dll
+C:\Users\Adrya\Desktop\Launcher\Launcher\obj\Debug\Launcher.PBLauncher.resources
+C:\Users\Adrya\Desktop\Launcher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\Adrya\Desktop\Launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Adrya\Desktop\Launcher\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\Adrya\Desktop\Launcher\Launcher\obj\Debug\PBLauncher.exe
+C:\Users\Adrya\Desktop\Launcher\Launcher\obj\Debug\PBLauncher.pdb
+C:\Users\Adrya\Desktop\Launcher\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Launcher\Launcher\bin\Release\PBLauncher.exe.config
+C:\Users\Adrian\Desktop\Launcher\Launcher\bin\Release\PBLauncher.exe
+C:\Users\Adrian\Desktop\Launcher\Launcher\bin\Release\PBLauncher.pdb
+C:\Users\Adrian\Desktop\Launcher\Launcher\bin\Release\DotNetZip.dll
+C:\Users\Adrian\Desktop\Launcher\Launcher\obj\Debug\Launcher.Conexao.resources
+C:\Users\Adrian\Desktop\Launcher\Launcher\obj\Debug\Launcher.PBLauncher.resources
+C:\Users\Adrian\Desktop\Launcher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\Adrian\Desktop\Launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Adrian\Desktop\Launcher\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\Adrian\Desktop\Launcher\Launcher\obj\Debug\PBLauncher.exe
+C:\Users\Adrian\Desktop\Launcher\Launcher\obj\Debug\PBLauncher.pdb
+C:\Users\Adrian\Desktop\Launcher\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+C:\Users\Adrya\Desktop\Launcher\Launcher\obj\Debug\Launcher.Conexao.resources
+C:\Users\Adrya\Desktop\Launcher by Codebreaker\Launcher\bin\Release\PBLauncher.exe
+C:\Users\Adrya\Desktop\Launcher by Codebreaker\Launcher\bin\Release\PBLauncher.pdb
+C:\Users\Adrya\Desktop\Launcher by Codebreaker\Launcher\bin\Release\DotNetZip.dll
+C:\Users\Adrya\Desktop\Launcher by Codebreaker\Launcher\obj\Debug\Launcher.Conexao.resources
+C:\Users\Adrya\Desktop\Launcher by Codebreaker\Launcher\obj\Debug\Launcher.PBLauncher.resources
+C:\Users\Adrya\Desktop\Launcher by Codebreaker\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\Adrya\Desktop\Launcher by Codebreaker\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Adrya\Desktop\Launcher by Codebreaker\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Adrya\Desktop\Launcher by Codebreaker\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\Adrya\Desktop\Launcher by Codebreaker\Launcher\obj\Debug\PBLauncher.exe
+C:\Users\Adrya\Desktop\Launcher by Codebreaker\Launcher\obj\Debug\PBLauncher.pdb
+C:\Users\Adrya\Documents\Codebreaker\Launcher v1.0\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+C:\Users\Adrya\Documents\Codebreaker\Launcher v1.0\Launcher\obj\Debug\Launcher.Conexao.resources
+C:\Users\Adrya\Documents\Codebreaker\Launcher v1.0\Launcher\obj\Debug\Launcher.PBLauncher.resources
+C:\Users\Adrya\Documents\Codebreaker\Launcher v1.0\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\Adrya\Documents\Codebreaker\Launcher v1.0\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Adrya\Documents\Codebreaker\Launcher v1.0\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Adrya\Documents\Codebreaker\Launcher v1.0\Launcher\bin\Release\PBLauncher.exe
+C:\Users\Adrya\Documents\Codebreaker\Launcher v1.0\Launcher\bin\Release\PBLauncher.pdb
+C:\Users\Adrya\Documents\Codebreaker\Launcher v1.0\Launcher\bin\Release\DotNetZip.dll
+C:\Users\Adrya\Documents\Codebreaker\Launcher v1.0\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\Adrya\Documents\Codebreaker\Launcher v1.0\Launcher\obj\Debug\PBLauncher.exe
+C:\Users\Adrya\Documents\Codebreaker\Launcher v1.0\Launcher\obj\Debug\PBLauncher.pdb
+C:\Users\Adrya\Documents\Codebreaker\PBLauncher\Launcher\bin\Release\PBLauncher.exe
+C:\Users\Adrya\Documents\Codebreaker\PBLauncher\Launcher\bin\Release\PBLauncher.pdb
+C:\Users\Adrya\Documents\Codebreaker\PBLauncher\Launcher\bin\Release\DotNetZip.dll
+C:\Users\Adrya\Documents\Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.Conexao.resources
+C:\Users\Adrya\Documents\Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.PBLauncher.resources
+C:\Users\Adrya\Documents\Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\Adrya\Documents\Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Adrya\Documents\Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Adrya\Documents\Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\Adrya\Documents\Codebreaker\PBLauncher\Launcher\obj\Debug\PBLauncher.exe
+C:\Users\Adrya\Documents\Codebreaker\PBLauncher\Launcher\obj\Debug\PBLauncher.pdb
+C:\Users\Adrya\Documents\Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+C:\Users\Adrya\Documents\Server files\PBLauncher\Launcher\bin\Release\PBLauncher.exe
+C:\Users\Adrya\Documents\Server files\PBLauncher\Launcher\bin\Release\PBLauncher.pdb
+C:\Users\Adrya\Documents\Server files\PBLauncher\Launcher\bin\Release\Ionic.Zip.dll
+C:\Users\Adrya\Documents\Server files\PBLauncher\Launcher\obj\Debug\Launcher.Conexao.resources
+C:\Users\Adrya\Documents\Server files\PBLauncher\Launcher\obj\Debug\Launcher.PBLauncher.resources
+C:\Users\Adrya\Documents\Server files\PBLauncher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\Adrya\Documents\Server files\PBLauncher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Adrya\Documents\Server files\PBLauncher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Adrya\Documents\Server files\PBLauncher\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\Adrya\Documents\Server files\PBLauncher\Launcher\obj\Debug\PBLauncher.exe
+C:\Users\Adrya\Documents\Server files\PBLauncher\Launcher\obj\Debug\PBLauncher.pdb
+C:\Users\Adrya\Documents\Server files\PBLauncher\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Launcher\bin\Release\PBLauncher.exe
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Launcher\bin\Release\PBLauncher.pdb
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Launcher\bin\Release\Ionic.Zip.dll
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.Conexao.resources
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.PBLauncher.resources
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\PBLauncher.exe
+C:\Users\Adrya\Documents\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\PBLauncher.pdb
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Launcher\bin\Release\PBLauncher.exe
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Launcher\bin\Release\PBLauncher.pdb
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Launcher\bin\Release\Ionic.Zip.dll
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.Conexao.resources
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.PBLauncher.resources
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\PBLauncher.exe
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\PBLauncher.pdb
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Launcher\bin\Release\Newtonsoft.Json.dll
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Launcher\bin\Release\Newtonsoft.Json.xml
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+C:\Users\Adrya\Desktop\[DEV] Codebreaker\PBLauncher\Launcher\obj\Debug\Launcher.Warning.resources

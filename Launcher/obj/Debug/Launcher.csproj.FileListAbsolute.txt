@@ -1,0 +1,52 @@
+C:\Users\Adrya\Desktop\Launcher\Launcher\bin\Debug\PBLauncher.exe.config
+C:\Users\Adrya\Desktop\Launcher\Launcher\bin\Debug\PBLauncher.exe
+C:\Users\Adrya\Desktop\Launcher\Launcher\bin\Debug\PBLauncher.pdb
+C:\Users\Adrya\Desktop\Launcher\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+C:\Users\Adrya\Desktop\Launcher\Launcher\obj\Debug\Launcher.Connect.resources
+C:\Users\Adrya\Desktop\Launcher\Launcher\obj\Debug\Launcher.PBLauncher.resources
+C:\Users\Adrya\Desktop\Launcher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\Adrya\Desktop\Launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Adrya\Desktop\Launcher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Adrya\Desktop\Launcher\Launcher\bin\Release\PBLauncher.exe.config
+C:\Users\Adrya\Desktop\Launcher\Launcher\bin\Release\PBLauncher.exe
+C:\Users\Adrya\Desktop\Launcher\Launcher\bin\Release\PBLauncher.pdb
+C:\Users\Adrya\Desktop\Launcher\Launcher\bin\Release\i3BaseUp.dll
+C:\Users\Adrya\Desktop\Launcher\Launcher\bin\Release\i3BaseUp.pdb
+C:\Users\Adrya\Desktop\Launcher\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\Adrya\Desktop\Launcher\Launcher\obj\Debug\PBLauncher.exe
+C:\Users\Adrya\Desktop\Launcher\Launcher\obj\Debug\PBLauncher.pdb
+C:\Users\Adrya\Desktop\Launcher\Launcher\bin\Release\Ionic.Zip.dll
+C:\Users\Administrador\Desktop\Launcher\Launcher\bin\Release\PBLauncher.exe.config
+C:\Users\Administrador\Desktop\Launcher\Launcher\bin\Release\PBLauncher.exe
+C:\Users\Administrador\Desktop\Launcher\Launcher\bin\Release\PBLauncher.pdb
+C:\Users\Administrador\Desktop\Launcher\Launcher\bin\Release\i3BaseUp.dll
+C:\Users\Administrador\Desktop\Launcher\Launcher\bin\Release\Ionic.Zip.dll
+C:\Users\Administrador\Desktop\Launcher\Launcher\bin\Release\i3BaseUp.pdb
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Debug\Launcher.Connect.resources
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Debug\Launcher.PBLauncher.resources
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Debug\PBLauncher.exe
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Debug\PBLauncher.pdb
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\bin\Release\PBLauncher.exe.config
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\bin\Release\PBLauncher.exe
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\bin\Release\PBLauncher.pdb
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\bin\Release\i3BaseUp.dll
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\bin\Release\Ionic.Zip.dll
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\bin\Release\i3BaseUp.pdb
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\obj\Debug\Launcher.Connect.resources
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\obj\Debug\Launcher.PBLauncher.resources
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\obj\Debug\PBLauncher.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\obj\Debug\PBLauncher.exe
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\obj\Debug\PBLauncher.pdb
+C:\Users\Administrator\Desktop\Launcher\Meu launcher\Launcher\obj\Debug\PBLauncher.Checador.resources

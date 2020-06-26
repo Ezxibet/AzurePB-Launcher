@@ -1,0 +1,17 @@
+C:\Users\Administrador\Desktop\Launcher\Launcher\bin\Release\PBLauncher.exe.config
+C:\Users\Administrador\Desktop\Launcher\Launcher\bin\Release\PBLauncher.exe
+C:\Users\Administrador\Desktop\Launcher\Launcher\bin\Release\PBLauncher.pdb
+C:\Users\Administrador\Desktop\Launcher\Launcher\bin\Release\i3BaseUp.dll
+C:\Users\Administrador\Desktop\Launcher\Launcher\bin\Release\Ionic.Zip.dll
+C:\Users\Administrador\Desktop\Launcher\Launcher\bin\Release\i3BaseUp.pdb
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Release\Launcher.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Release\Launcher.Connect.resources
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Release\Launcher.PBLauncher.resources
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Release\Launcher.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Release\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Release\Launcher.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Release\PBLauncher.exe
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Release\PBLauncher.pdb
+C:\Users\Administrador\Desktop\Launcher\Launcher\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\Launcher\Launcher\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrador\Desktop\Launcher\Launcher\obj\Release\PBLauncher.Properties.Resources.resources

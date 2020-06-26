@@ -1,0 +1,46 @@
+[NEW_ITEM]
+NEW = "100010201"       ;Defcon1
+NEW = "100010301"       ;Defcon2
+NEW = "100010401"       ;Defcon3
+NEW = "70001301"        ;Mask Flame
+NEW = "70001401"        ;Two tone mask
+NEW = "70001501"        ;Irom mask
+NEW = "70001601"        ;Target mask
+NEW = "70001701"        ;Pumkin
+NEW = "70001801"        ;Jewel
+NEW = "70000301"        ;Reinforce Head
+NEW = "70000701"        ;Reinforce Head plus
+NEW = "70000601"        ;Target Tracking Head
+NEW = "60001001"	;Reinforced D-Fox
+NEW = "60001401"	;Reinforced Combo D-Fox
+NEW = "60000901"	;Reinforced Leopard
+NEW = "60001301"	;Reinforced Combo Leopard
+NEW = "60001101"	;Reinforced Hide
+NEW = "60001501"	;Reinforced Combo Hide
+NEW = "60001201"	;Reinforced Viper Red
+NEW = "60001601"	;Reinforced Combo Viper Red
+NEW = "110007301"       ;Infantry set
+NEW = "110007401"       ;Rifle set
+NEW = "110007501"       ;Suppression set
+NEW = "110007601"       ;Front Assault set
+NEW = "110007701"       ;Demoman set
+NEW = "110009401"       ;Senior Demoman set
+NEW = "110009301"       ;Senior Front Assault set
+NEW = "110009001"       ;Senior Infantry set
+NEW = "110009101"       ;Senior Rifleman set
+NEW = "110009201"       ;Senior Suppression set
+NEW = "110009501"       ;Commander Infantry
+NEW = "110009601"       ;Commander Rifleman
+NEW = "110009701"       ;Commander Suppression
+NEW = "110009801"       ;Commander Front Assault
+NEW = "100003001"       ;Bullet Proof Vest
+NEW = "100004401"       ;Bullet Proof Vest Plus
+NEW = "100005201"       ;Change Clan Mark
+NEW = "100005501"       ;Increase Clan Member
+NEW = "100005301"       ;Clan Reset Score
+NEW = "100005601"       ;Clan Reset Point
+NEW = "100001601"       ;Free Move;
+NEW = "100003201"       ;Hollow Point Ammo??
+NEW = "100003501"       ;Increase Grenade
+[HOT_ITEM]
+[END]

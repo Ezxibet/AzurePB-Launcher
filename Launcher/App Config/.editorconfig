@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# IDE0067: Descartar objetos antes de perder o escopo
+dotnet_diagnostic.IDE0067.severity = none
+
+# IDE0069: Campos descartáveis devem ser descartados
+dotnet_diagnostic.IDE0069.severity = none
